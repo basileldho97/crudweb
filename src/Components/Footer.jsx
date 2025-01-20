@@ -31,8 +31,8 @@ export const Footer = () => {
                         <div className="col-sm-6 col-md-6 col-lg-3  padding_1x">
                             <h5>Contact Us</h5>
                             <a href="#">76/A, Green Lane, Dhanmondi, NYC</a>
-                            <a href="#">demomail89@gmail.com</a>
-                            <a href="#">+10 (78) 738-9083</a>
+                            <a href="#">abc@gmail.com</a>
+                            <a href="#">+917389083345</a>
 
                         </div>
                         
